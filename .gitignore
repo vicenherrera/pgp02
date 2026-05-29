@@ -1,0 +1,10 @@
+*.pid
+*.log
+*.key
+*.pem
+*.crt
+server.key
+pool_passwd
+pcp.conf
+*.swp
+*.tmp
